@@ -92,6 +92,7 @@
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\Source\Core\NptAutomaticCleaner.cpp" />
     <ClCompile Include="..\..\..\..\Source\Core\NptBase64.cpp" />
     <ClCompile Include="..\..\..\..\Source\Core\NptHash.cpp" />
     <ClCompile Include="..\..\..\..\Source\System\Bsd\NptBsdResolver.cpp" />
